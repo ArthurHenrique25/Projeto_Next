@@ -14,21 +14,21 @@
 
 ### Adicionar no package.json
 
-"scripts":{
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint":  "next lint"
+#### "scripts":{
+####    "dev": "next dev",
+####    "build": "next build",
+####    "start": "next start",
+####    "lint":  "next lint"
     
   }
 ### Criar uma pasta pages e adicionar um index.js com:
 
-export default function HomePage(){
-    return(
-        <div>
-            <h1>
-                Filme de ação
-            </h1>
-        </div>
-    )
-}
+#### export default function HomePage(){
+####    return(
+####        <div>
+####            <h1>
+####                Filme de ação
+####            </h1>
+####        </div>
+####    )
+#### }
