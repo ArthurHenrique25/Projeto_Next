@@ -37,5 +37,7 @@
 
 #### yarn add styled-components
 
+### yarn add --dev babel-plugin-styled-components
+
 
 
