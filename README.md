@@ -21,4 +21,14 @@
     "lint":  "next lint"
     
   }
+### Criar uma pasta pages e adicionar um index.js com:
 
+export default function HomePage(){
+    return(
+        <div>
+            <h1>
+                Filme de ação
+            </h1>
+        </div>
+    )
+}
