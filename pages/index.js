@@ -33,6 +33,7 @@ export default function HomePage(){
         <Cartao Informacao="......." >
         ....
         </Cartao>
+        
 
         </Conteudo>
         </div>
