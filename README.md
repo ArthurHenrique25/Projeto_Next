@@ -12,6 +12,8 @@
 
 #### yarn init -y
 
+### Adicionar o next e reac ao projeto 
+
 #### yarn add next react react-dom
 
 ### Adicionar no package.json
