@@ -2,7 +2,9 @@
 
 ## Manual de instalação
 
-### Instalar yarn
+### Use  yarn como executavel
+
+#### Instalar yarn
 
 #### npm install -global yarn
 
